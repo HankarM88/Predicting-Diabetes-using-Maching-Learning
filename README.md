@@ -1,4 +1,5 @@
 ##  Predicting-Diabetes-with-Maching-and-Algorithms 
+### Support Vector Classifier 
 ### KNN Classifier 
 ### Naive Classifier 
 ### Random Forest Classifier 
