@@ -8,8 +8,6 @@ This project is focused on predicting the likelihood of a patient having diabete
 - [Installation](#installation)
 - [Usage](#usage)
 - [Models and Evaluation](#models-and-evaluation)
-- [Results](#results)
-- [Conclusion](#conclusion)
 
 ## Dataset
 The dataset used in this project is the **Pima Indians Diabetes Database**, which is available on Kaggle:  
@@ -67,5 +65,5 @@ pip install numpy pandas scikit-learn matplotlib seaborn
    git clone https://github.com/yourusername/diabetes-prediction.git
    cd Predicting-Diabetes-with-Maching-and-Deep-learning
 ```
-2. Customize the jupyter notebook
+2. Customize the jupyter notebook<br>
 You can edit the script to experiment with different machine learning models or change the hyperparameters for better performance.
