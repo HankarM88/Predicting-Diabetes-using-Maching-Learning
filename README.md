@@ -66,4 +66,4 @@ pip install numpy pandas scikit-learn matplotlib seaborn
    cd Predicting-Diabetes-with-Maching-and-Deep-learning
 ```
 2. Customize the jupyter notebook<br>
-You can edit the script to experiment with different machine learning models or change the hyperparameters for better performance.
+You can play with the notebook to experiment other different machine learning models or change the hyperparameters for better performance.
