@@ -63,7 +63,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 1. Clone the Repository
 ```bash
    git clone https://github.com/yourusername/diabetes-prediction.git
-   cd Predicting-Diabetes-with-Maching-and-Deep-learning
+   cd Predicting-Diabetes-using-Maching-Learning
 ```
 2. Customize the jupyter notebook<br>
-You can play with the notebook to experiment other different machine learning models or change the hyperparameters for better performance.
+You can play with the notebooks to experiment other different machine learning models or change the hyperparameters for better performance.
