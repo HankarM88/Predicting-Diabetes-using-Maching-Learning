@@ -46,19 +46,10 @@ The dataset used in this project is the **Pima Indians Diabetes Database**, whic
    - Save the trained model and make it ready for predictions on new data.
 
 ## Installation
-
-To run this project locally, you'll need the following Python libraries:
-- **NumPy**
-- **Pandas**
-- **Scikit-learn**
-- **Matplotlib** (for visualization)
-- **Seaborn** (for more advanced plots)
-
-Install the dependencies using the following command:
-
 ```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 ```
+
 ## Usage 
 1. Clone the Repository
 ```bash
